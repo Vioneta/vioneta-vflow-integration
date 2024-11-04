@@ -6,7 +6,7 @@ _Companion Component to [node-red-contrib-vioneta-agro-websocket](https://github
 
 ## Overview
 
-The VFlow Companion Integration bridges VFlow and Vioneta Agro, allowing you to manage Vioneta Agro entities and automations directly from VFlow. This integration enhances your smart automation setup by enabling dynamic interaction between these two powerful tools.
+VFlow Companion Integration bridges VFlow and Vioneta Agro, allowing you to manage Vioneta Agro entities and automations directly from VFlow. This integration enhances your smart automation setup by enabling dynamic interaction between these two powerful tools.
 
 ## Key Features
 
