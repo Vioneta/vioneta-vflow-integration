@@ -16,6 +16,13 @@
 
 **Full Changelog**: https://github.com/zachowj/hass-node-red/compare/v1.1.2...v1.1.3
 
+## [4.1.3](https://github.com/Vioneta/vflow-vioneta-integration/compare/v4.1.2...v4.1.3) (2024-11-04)
+
+
+### Bug Fixes
+
+* vflow fix done ([83df789](https://github.com/Vioneta/vflow-vioneta-integration/commit/83df78910c73ac59a9191a564c2fe49007040a73))
+
 ## [4.1.1](https://github.com/zachowj/hass-node-red/compare/v4.1.0...v4.1.1) (2024-09-26)
 
 
