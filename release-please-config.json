@@ -1,5 +1,5 @@
 {
-  "bootstrap-sha": "039c01ac9dd1ae9a60a653a4b14a4e623e63b2e4",
+  "bootstrap-sha": "7becde4adb7b56c5811556c81bb7fe31157c99f0",
   "group-pull-request-title-pattern": "release v${version}",
   "include-component-in-tag": false,
   "packages": {
